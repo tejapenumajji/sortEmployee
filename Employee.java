@@ -1,4 +1,3 @@
-package com.sortemp.Employee;
 
 public class Employee {
 	private String name;
